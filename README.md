@@ -5,7 +5,7 @@ by clicking the details button it shows a popup message wth description of produ
 ![3 details button it shows pop with product details](https://github.com/amalanto1611/myshop_test/assets/145443897/b279d4c5-e4a0-4bcc-be1f-1fc7d6fbdeb7)
 success message message shows added to cart 
 ![4 product added to cart by add cart button](https://github.com/amalanto1611/myshop_test/assets/145443897/0773974d-ad9b-4821-bc28-ce401b5528b6)
-edit product section view inly for admins admin have only the privilage to edit the product and update button using can update .
+edit product section view only for admins admin have only the privilage to edit the product and update button using can update .
 ![5 edit product](https://github.com/amalanto1611/myshop_test/assets/145443897/b8320386-d9ab-4f4e-8b3f-013170b8c8c9)
 after clicking update it shows success message 
 ![6 update product](https://github.com/amalanto1611/myshop_test/assets/145443897/948bb97d-fab2-4553-bcab-ce416c16e9c0)
