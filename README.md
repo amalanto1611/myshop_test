@@ -1,66 +1,22 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
-
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[WebReinvent](https://webreinvent.com/)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Jump24](https://jump24.co.uk)**
-- **[Redberry](https://redberry.international/laravel/)**
-- **[Active Logic](https://activelogic.com)**
-- **[byte5](https://byte5.de)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+![1 admin login](https://github.com/amalanto1611/myshop_test/assets/145443897/b01dd4a9-895e-4e76-8b9a-bdcd3531f7e0)
+admin can login using admin password and mail it will leads to this window
+![2 admin dashboard product detals](https://github.com/amalanto1611/myshop_test/assets/145443897/b38ccf28-be8a-45a2-9392-5d23086fb52e)
+by clicking the details button it shows a popup message wth description of product and add to cart button
+![3 details button it shows pop with product details](https://github.com/amalanto1611/myshop_test/assets/145443897/b279d4c5-e4a0-4bcc-be1f-1fc7d6fbdeb7)
+success message 
+![4 product added to cart by add cart button](https://github.com/amalanto1611/myshop_test/assets/145443897/0773974d-ad9b-4821-bc28-ce401b5528b6)
+![5 edit product](https://github.com/amalanto1611/myshop_test/assets/145443897/b8320386-d9ab-4f4e-8b3f-013170b8c8c9)
+![6 update product](https://github.com/amalanto1611/myshop_test/assets/145443897/948bb97d-fab2-4553-bcab-ce416c16e9c0)
+![7 delete product](https://github.com/amalanto1611/myshop_test/assets/145443897/8b4b4e1f-0dd2-4bad-ada2-b5a6db17b1fc)
+![8 add product](https://github.com/amalanto1611/myshop_test/assets/145443897/9eb5593b-2896-4eac-b25a-aad7e404f945)
+![9 add product success](https://github.com/amalanto1611/myshop_test/assets/145443897/406b8db4-5783-4957-8d18-9948157eeeae)
+![10 cart details](https://github.com/amalanto1611/myshop_test/assets/145443897/70fbef3e-0e3f-46c2-9966-62d1be48fcb6)
+![11 whats app message](https://github.com/amalanto1611/myshop_test/assets/145443897/81095b00-0a1e-4d66-9960-c78ec7799b49)
+![12 remove cart](https://github.com/amalanto1611/myshop_test/assets/145443897/cd985681-ed76-4d52-b07f-42e493b8e2b5)
+![13 categories section](https://github.com/amalanto1611/myshop_test/assets/145443897/e3360abf-19b3-461a-a452-17e0ec3b84cf)
+![14 categories by clicking cart](https://github.com/amalanto1611/myshop_test/assets/145443897/6d5c227a-1f1d-42d3-8575-7015ca57fe5e)
+![15 user login](https://github.com/amalanto1611/myshop_test/assets/145443897/6fc3e1ad-5806-4212-8db2-5406130e50ad)
+![16 new user](https://github.com/amalanto1611/myshop_test/assets/145443897/3edc0c93-abba-4d79-92c9-99d83aeb3748)
+![17 user dashboard](https://github.com/amalanto1611/myshop_test/assets/145443897/9ef94f5a-e460-4112-8abd-6b6d31fc70f1)
+![18 user cart](https://github.com/amalanto1611/myshop_test/assets/145443897/cb70057b-6d90-44e9-8804-264caf15ab7b)
+![19 cart by user](https://github.com/amalanto1611/myshop_test/assets/145443897/f83ef156-51a0-49f3-80ea-e28bba620e66)
